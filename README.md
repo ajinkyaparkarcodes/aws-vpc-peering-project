@@ -1,5 +1,6 @@
-
-![VPC-Peering](https://github.com/user-attachments/assets/ca255bd4-fb15-4e44-9136-304615a96312)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca255bd4-fb15-4e44-9136-304615a96312" alt="VPC Peering Diagram" width="700"/>
+</p>
 
 # 🛠️ VPC Peering Project – AWS Setup Guide
 
@@ -88,5 +89,3 @@ This project demonstrates how to establish VPC Peering between two AWS VPCs to e
 - From EC2-2 (VPC-2), ping EC2-1's private IP
 
 ✅ Successful ping confirms proper VPC peering and route setup!
-
----
