@@ -1,4 +1,6 @@
 
+![VPC-Peering](https://github.com/user-attachments/assets/ca255bd4-fb15-4e44-9136-304615a96312)
+
 # 🛠️ VPC Peering Project – AWS Setup Guide
 
 This project demonstrates how to establish VPC Peering between two AWS VPCs to enable private communication between EC2 instances across different VPCs.
